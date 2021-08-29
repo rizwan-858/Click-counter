@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #2d3a35;
+}
+
+.para {
+  color: #2d3a35;
+}
+
+.span {
+  color: #c20a72;
+}
+
+.button {
+  color: #007bff;
+}
